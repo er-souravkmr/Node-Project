@@ -1,0 +1,18 @@
+{
+  "name": "capestone",
+  "version": "1.0.0",
+  "description": "this is a project to polish the knowledge and understanding of node and xprss ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourav Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
